@@ -1,0 +1,7 @@
+ERROR: dbunload_table inptprofile2 /dspr/prod/dss/data/profiler/logs/inptprofile2.out
+ERROR: dbunload_table inptprofile1 /dspr/prod/dss/data/profiler/logs/inptprofile1.out
+ERROR: 2 errors found processing the control file
+
+.......... oraload.sh completed with return code  *** 2 ***
+
+
